@@ -15,7 +15,7 @@
 
 # Add your Project REPORT HERE 
 
-# Result:   
+# Top 10 Result:   
 
 ````
 the	13851
@@ -30,6 +30,9 @@ I	1723
 with	1695
 ````
 
+# Sorted Full Result:
+
+[Link Text](https://github.com/psh687/CS378-in-class-activity-1/blob/main/SortedResult.txt)
 
 # Project Template
 
