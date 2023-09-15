@@ -2,15 +2,10 @@
 
 ## Team members' names 
 
-1. Student Name:
+1. Student Name: Peter Hwang
 
-   Student UT EID:
+   Student UT EID: sh49687
 
-2. Student Name:
-
-   Student UT EID:
-
- ...
 
 ##  Course Name: CS378 - Cloud Computing 
 
@@ -19,6 +14,21 @@
 
 
 # Add your Project REPORT HERE 
+
+# Result:   
+
+````
+the	13851
+of	   6638
+and	6000
+a	   4549
+to	   4529
+in	   3904
+that	2692
+his	2428
+I	   1723
+with	1695
+````
 
 
 # Project Template
